@@ -1,0 +1,8 @@
+TFTSprites	KEYWORD1
+TFTSpritesV2	KEYWORD1
+
+drawSprite_16	KEYWORD2
+drawSprite_8	KEYWORD2
+Cust_drawSprite_16	KEYWORD2
+drawSprite	KEYWORD2
+rotateSprite	KEYWORD2
